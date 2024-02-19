@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, Flutter, Astro**
 
-- 📝 I regularly write articles on [https://ismartn.netlify.app/](https://ismartn.netlify.app/)
+- 📝 I regularly write articles on [my blog](https://mrtnmrls.com)
 
 - 💬 Ask me about **Android**
 
